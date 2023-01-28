@@ -11,7 +11,7 @@ Test login with correct credentials
 Test the login by using correct credentials.
 
 **Steps to reproduce:**
-1. Go to site.com/login
+1. Go to emag.ro/login
 2. Add correct user/pass
 3. Observe if user can login
 
@@ -30,7 +30,7 @@ Test login without correct credentials
 Test the login by not using credentials.
 
 **Steps to reproduce:**
-1. Go to site.com/login
+1. Go to emag.ro/login
 2. Add incorrect user/pass
 3. Observe if user can not login
 
@@ -49,7 +49,7 @@ Test login without credentials
 Test the login by using incorrect credentials.
 
 **Steps to reproduce:**
-1. Go to site.com/login
+1. Go to emag.ro/login
 2. Add no user/pass
 3. Observe if user can not login
 
@@ -68,7 +68,7 @@ Test forgot password functionality
 Check if forgot password functionality works as expected and an email with reset password link is send
 
 **Steps to reproduce:**
-1. Go to site.com/login
+1. Go to emag.ro/login
 2. Press ''forgot password'' button
 3. Add an email address
 4. Press "recover" button
